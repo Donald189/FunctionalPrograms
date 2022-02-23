@@ -24,9 +24,9 @@ namespace BasicCoreProgram
 
             //VowelAndConstant.CheckVowelAndConstant();
 
-            PrimeNumber.CheckPrimeNumber();
+            //PrimeNumber.CheckPrimeNumber();
 
-            //LargestNumber.FindLargestNumber();
+            LargestNumber.FindLargestNumber();
 
         }
     }
