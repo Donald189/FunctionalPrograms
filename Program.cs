@@ -6,9 +6,9 @@ namespace BasicCoreProgram
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Basic Functional Programing");
+            Console.WriteLine("Basic Functional Programing\n");
 
-            //flipCoin.flipTheCoin();
+            flipCoin.flipTheCoin();
 
             //LeapYear.leapyear();
 
