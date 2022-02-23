@@ -20,9 +20,9 @@ namespace BasicCoreProgram
 
             //NumberSwap.SwapTwoNUmbers();
 
-            OddEven.OddorEven();
+            //OddEven.OddorEven();
 
-            //VowelAndConstant.CheckVowelAndConstant();
+            VowelAndConstant.CheckVowelAndConstant();
 
             //PrimeNumber.CheckPrimeNumber();
 
