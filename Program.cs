@@ -8,9 +8,9 @@ namespace BasicCoreProgram
         {
             Console.WriteLine("Basic Functional Programing\n");
 
-            flipCoin.flipTheCoin();
+            //flipCoin.flipTheCoin();
 
-            //LeapYear.leapyear();
+            LeapYear.leapyear();
 
             //HarmonicNumber.HarNum();
 
