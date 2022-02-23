@@ -18,9 +18,9 @@ namespace BasicCoreProgram
 
             //QuotientRemainder.FindQuotientAndRemainder();
 
-            NumberSwap.SwapTwoNUmbers();
+            //NumberSwap.SwapTwoNUmbers();
 
-            //OddEven.OddorEven();
+            OddEven.OddorEven();
 
             //VowelAndConstant.CheckVowelAndConstant();
 
