@@ -10,9 +10,9 @@ namespace BasicCoreProgram
 
             //flipCoin.flipTheCoin();
 
-            LeapYear.leapyear();
+            //LeapYear.leapyear();
 
-            //HarmonicNumber.HarNum();
+            HarmonicNumber.HarNum();
 
             //PrimeFactor.primefactor();
 
