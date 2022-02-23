@@ -16,7 +16,7 @@ namespace BasicCoreProgram
 
             //PrimeFactor.primefactor();
 
-            //QuotientRemainder.FindQuotientAndRemainder();
+            QuotientRemainder.FindQuotientAndRemainder();
 
             //NumberSwap.SwapTwoNUmbers();
 
