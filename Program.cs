@@ -22,9 +22,9 @@ namespace BasicCoreProgram
 
             //OddEven.OddorEven();
 
-            VowelAndConstant.CheckVowelAndConstant();
+            //VowelAndConstant.CheckVowelAndConstant();
 
-            //PrimeNumber.CheckPrimeNumber();
+            PrimeNumber.CheckPrimeNumber();
 
             //LargestNumber.FindLargestNumber();
 
