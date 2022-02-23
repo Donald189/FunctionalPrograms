@@ -16,15 +16,15 @@ namespace BasicCoreProgram
 
             //PrimeFactor.primefactor();
 
-            QuotientRemainder.FindQuotientAndRemainder();
+            //QuotientRemainder.FindQuotientAndRemainder();
 
-            //NumberSwap.SwapTwoNUmbers();
+            NumberSwap.SwapTwoNUmbers();
 
             //OddEven.OddorEven();
 
             //VowelAndConstant.CheckVowelAndConstant();
 
-            PrimeNumber.CheckPrimeNumber();
+            //PrimeNumber.CheckPrimeNumber();
 
             //LargestNumber.FindLargestNumber();
 
