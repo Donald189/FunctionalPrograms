@@ -12,7 +12,7 @@ namespace BasicCoreProgram
 
             //LeapYear.leapyear();
 
-            HarmonicNumber.HarNum();
+            //HarmonicNumber.HarNum();
 
             //PrimeFactor.primefactor();
 
@@ -24,7 +24,7 @@ namespace BasicCoreProgram
 
             //VowelAndConstant.CheckVowelAndConstant();
 
-            //PrimeNumber.CheckPrimeNumber();
+            PrimeNumber.CheckPrimeNumber();
 
             //LargestNumber.FindLargestNumber();
 
